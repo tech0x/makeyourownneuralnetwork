@@ -10,3 +10,4 @@ uwsgi --http-socket :9091 --plugin python3 --wsgi-file ./test_service.py
 
 3. Input digit in the processing window. Send to neural net by pressing enter. 
 
+![test](https://github.com/tech0x/makeyourownneuralnetwork/blob/master/image.jpg?raw=true)
